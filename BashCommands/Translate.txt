@@ -1,0 +1,4 @@
+Выполнить транслитерацию — замену латинских символов близкими по звучанию русскими.
+
+cat --help | tr abcdefghijklmnopqrstuvWxyz абцдефгхийклмнопкрстуввсиз | tr ABCDEFGHIJKLMNOPQRSTUVWXYZ АБЦДЕФГХИЙКЛМНОПКРСТУВВСИЗ | head -4
+
