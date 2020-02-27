@@ -1,0 +1,3 @@
+Подсчёт файлов при помощи find и  wc
+
+find ~/Downloads |wc -l
