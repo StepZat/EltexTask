@@ -1,0 +1,4 @@
+firstLab: encode.c
+	gcc -o encode encode.c
+
+	
